@@ -1,6 +1,9 @@
 [![Build Status](https://travis-ci.org/norberteder/trello.svg?branch=master)](https://travis-ci.org/norberteder/trello)
 
 # trello
+
+Modificado para practica 7 MissionNodeJs LaunchX
+
 ## A simple asynchronous client for [Trello](http://www.trello.com)
 
 This is a wrapper for some of the Trello HTTP API. Please feel free to add any other pieces you need! :)
